@@ -2,7 +2,7 @@
 
 <br></br>
 
-- [Practice quiz: Regression](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/Practice%20quiz%3A%20Regression/)
+- [Practice quiz: Regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week1/Practice%20quiz_%20Regression/ss1.png)
 
 - [Practice quiz: Supervised vs unsupervised learning](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/Practice%20quiz%3A%20Supervised%20vs%20unsupervised%20learning/)
 
