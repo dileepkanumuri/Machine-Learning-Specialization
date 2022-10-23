@@ -34,8 +34,8 @@
     - [Practice quiz: Cost function for logistic regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Practice%20quiz_%20Cost%20function%20for%20logistic%20regression/ss1.png)
     - [Practice quiz: Gradient descent for logistic regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Practice%20quiz_%20Gradient%20descent%20for%20logistic%20regression/ss1.png)
     - [Optional Labs](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/optional%20labs)
-        
+        ### [add here]
     - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1)
       - [Logistic Regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
-#### [Certificate Of Completion](https://coursera.org/share/195768f3c1a83e42298d3f61dae99d01)
+#### [Certificate Of Completion]
