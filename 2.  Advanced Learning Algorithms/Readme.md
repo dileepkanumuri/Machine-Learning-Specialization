@@ -1,4 +1,4 @@
-## Supervised Machine Learning : Regression and Classification
+## Advanced Learning Algorithms
 
 
 - [Week 1](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week1)
