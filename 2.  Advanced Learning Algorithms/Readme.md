@@ -8,7 +8,7 @@
     - [Practice quiz: TensorFlow implementation](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week1/Practice%20quiz_%20TensorFlow%20implementation)
     - [Practice quiz: Neural Networks Implementation in python](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week1/Practice-Quiz-Neural-Networks-Implementation-in-python)
   - [Optional Labs](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week1/Optional%20Labs)
-    - [Model Representation]([/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab03_Model_Representation_Soln.ipynb](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab03_Model_Representation_Soln.ipynb))
+    - [Neurons_and_Layers](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week1/Optional%20Labs/C2_W1_Lab01_Neurons_and_Layers.ipynb)
     - [Cost Function](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab04_Cost_function_Soln.ipynb)
     - [Gradient Descent](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week1/Optional%20Labs/C1_W1_Lab05_Gradient_Descent_Soln.ipynb)
 
