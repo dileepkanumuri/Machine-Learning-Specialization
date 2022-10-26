@@ -23,8 +23,8 @@
       - [Multi class Classification](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Multiclass_TF.ipynb)
       - [ReLU activation](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Relu.ipynb)
       - [Softmax Function](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_SoftMax.ipynb)
-      - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
-      - [Linear Regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/C1W2A1/C1_W2_Linear_Regression.ipynb)
+      - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1)
+      - [Linear Regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
 
 <br/>
 
