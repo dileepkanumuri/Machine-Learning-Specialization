@@ -15,7 +15,7 @@
 
 - [Week 2](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week2)
 
-    - [Practice quiz: Gradient descent in practice](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/Practice%20quiz_%20Gradient%20descent%20in%20practice)
+    - [Practice quiz: Activation Functions](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week2/Practice-Quiz-Activation-Functions)
     - [Practice quiz: Multiple linear regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/Practice%20quiz_%20Multiple%20linear%20regression/ss1.png)
     - [Optional Labs](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/Optional%20Labs)
       - [Numpy Vectorization](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab01_Python_Numpy_Vectorization_Soln.ipynb)
