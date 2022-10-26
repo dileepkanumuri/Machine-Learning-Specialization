@@ -13,7 +13,7 @@
     - [Coffee Roasting : Tensor Flow](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week1/Optional%20Labs/C2_W1_Lab03_CoffeeRoasting_Numpy.ipynb)
 <br/>
 
-- [Week 2](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2) 
+- [Week 2](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week2)
 
     - [Practice quiz: Gradient descent in practice](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/Practice%20quiz_%20Gradient%20descent%20in%20practice)
     - [Practice quiz: Multiple linear regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/Practice%20quiz_%20Multiple%20linear%20regression/ss1.png)
