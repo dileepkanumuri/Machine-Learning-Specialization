@@ -23,7 +23,7 @@
       - [Multi class Classification](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Multiclass_TF.ipynb)
       - [ReLU activation](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Relu.ipynb)
       - [Softmax Function](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_SoftMax.ipynb)
-      - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1)
+     - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1)
       - [Neural Networks for Handwritten Digit Recognition](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
 
 <br/>
