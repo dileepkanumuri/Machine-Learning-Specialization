@@ -28,7 +28,7 @@
 
 <br/>
 
-- [Week 3](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3)
+- [Week 3](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week3)
 
     - [Practice quiz: Cost function for logistic regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Practice%20quiz_%20Cost%20function%20for%20logistic%20regression/ss1.png)
     - [Practice quiz: Gradient descent for logistic regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Practice%20quiz_%20Gradient%20descent%20for%20logistic%20regression/ss1.png)
