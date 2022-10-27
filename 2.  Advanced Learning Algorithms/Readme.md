@@ -33,8 +33,7 @@
     - [Practice quiz: Advice for applying machine learning](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning/ss1.png)
     - [Practice quiz: Bias and variance](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week3/practice-quiz-bias-and-variance)
     - [Practice quiz: Machine learning development process](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week3/practice-quiz-machine-learning-development-process)
-    - [Optional Labs](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/optional%20labs)
-        ### [add here]
+ 
     - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1)
       - [Logistic Regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1/C1_W3_Logistic_Regression.ipynb)
 
