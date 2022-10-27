@@ -24,7 +24,7 @@
       - [ReLU activation](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_Relu.ipynb)
       - [Softmax Function](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/optional-labs/C2_W2_SoftMax.ipynb)
      - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1)
-      - [Neural Networks for Handwritten Digit Recognition](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
+       - [Neural Networks for Handwritten Digit Recognition](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
 
 <br/>
 
@@ -33,7 +33,7 @@
     - [Practice quiz: Advice for applying machine learning](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning/ss1.png)
     - [Practice quiz: Bias and variance](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week3/practice-quiz-bias-and-variance)
     - [Practice quiz: Machine learning development process](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week3/practice-quiz-machine-learning-development-process)
-    - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1)
+    - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week3/C2W3A1)
       - [Neural Networks for Handwritten Digit Recognition](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week2/C2W2A1/C2_W2_Assignment.ipynb)
       
 #### [Certificate Of Completion]
