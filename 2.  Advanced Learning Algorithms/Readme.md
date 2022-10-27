@@ -31,7 +31,7 @@
 - [Week 3](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week3)
 
     - [Practice quiz: Advice for applying machine learning](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/2.%20%20Advanced%20Learning%20Algorithms/week3/Practice-Quiz-Advice-for-applying-machine-learning/ss1.png)
-    - [Practice quiz: Gradient descent for logistic regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Practice%20quiz_%20Gradient%20descent%20for%20logistic%20regression/ss1.png)
+    - [Practice quiz: Bias and variance](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/2.%20%20Advanced%20Learning%20Algorithms/week3/practice-quiz-bias-and-variance)
     - [Optional Labs](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/optional%20labs)
         ### [add here]
     - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/C1W3A1)
