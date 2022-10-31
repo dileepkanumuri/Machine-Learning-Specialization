@@ -9,7 +9,7 @@
 
 <br/>
 
-- [Week 2](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/20e9e2fafcabd86aeeabdda2f79316caba6a5213/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2)
+- [Week 2](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week2)
     - [Practice quiz : Collaborative Filtering](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/1d85288d0d29a33b780f7529f6e72837be7ad188/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/Practice%20Quiz%20:%20Collaborative%20Filtering)
     - [Practice quiz : Recommender systems implementation](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/1d85288d0d29a33b780f7529f6e72837be7ad188/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/Practice%20Quiz%20:%20Recommender%20systems%20implementation)
     - [Practice quiz : Content-based filtering](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/1d85288d0d29a33b780f7529f6e72837be7ad188/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week2/Practice%20Quiz%20:%20Content-based%20filtering)
