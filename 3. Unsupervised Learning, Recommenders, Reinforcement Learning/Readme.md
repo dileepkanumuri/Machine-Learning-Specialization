@@ -19,7 +19,7 @@
 
 <br/>
 
-- [Week 3](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/20e9e2fafcabd86aeeabdda2f79316caba6a5213/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3)
+- [Week 3](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/3.%20Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning/week3)
     - [Practice quiz : Reinforcement learning introduction](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/eb7aab8b6964336d3d8569f6e9380ca83775969e/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/Practice%20quiz%20:%20Reinforcement%20learning%20introduction)
     - [Practice Quiz : State-action value function](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/eb7aab8b6964336d3d8569f6e9380ca83775969e/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/Practice%20Quiz%20:%20State-action%20value%20function)
     - [Practice Quiz : Continuous state spaces](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera/blob/eb7aab8b6964336d3d8569f6e9380ca83775969e/C3%20-%20Unsupervised%20Learning,%20Recommenders,%20Reinforcement%20Learning/week3/Practice%20Quiz%20:%20Continuous%20state%20spaces)
