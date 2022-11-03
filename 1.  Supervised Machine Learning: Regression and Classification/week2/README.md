@@ -14,4 +14,4 @@
     - [Sklearn Gradient Descent](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab05_Sklearn_GD_Soln.ipynb)
     - [Sklearn Normal Method](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/Optional%20Labs/C1_W2_Lab06_Sklearn_Normal_Soln.ipynb)
 - [Programming Assignment](https://github.com/dileepkanumuri/Machine-Learning-Specialization/tree/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/C1W2A1)
-  - [Linear Regression](/C1%20-%20Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/week2/C1W2A1/C1_W2_Linear_Regression.ipynb)
+  - [Linear Regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week2/C1W2A1/C1_W2_Linear_Regression.ipynb)
