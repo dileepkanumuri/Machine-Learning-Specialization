@@ -4,7 +4,7 @@
 
 
 - [Practice quiz: Cost function for logistic regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Practice%20quiz_%20Cost%20function%20for%20logistic%20regression/ss1.png)
-- [Practice quiz: Gradient descent for logistic regression](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Practice%20quiz:%20Gradient%20descent%20for%20logistic%20regression/)
+- [Practice quiz: Gradient descent for logistic regression](https://github.com/dileepkanumuri/Machine-Learning-Specialization/blob/main/1.%20%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Practice%20quiz_%20Gradient%20descent%20for%20logistic%20regression/ss1.png)
 - [Optional Labs](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Optional%20Labs/)
     - [Classification](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab01_Classification_Soln.ipynb)
     - [Sigmoid Function](/C1%20-%20Supervised%20Machine%20Learning:%20Regression%20and%20Classification/week3/Optional%20Labs/C1_W3_Lab02_Sigmoid_function_Soln.ipynb)
